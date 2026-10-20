@@ -1,15 +1,20 @@
-# Rogue-ish RPG 石の迷宮
-### — Stone Labyrinth —
+# SIGIL ABYSS（シジル・アビス）
+### Rogue-ish RPG
+
+旧タイトル：石の迷宮 / Stone Labyrinth
 
 疑似3Dの迷宮を探索する、Windows向けのRogue-ish RPGです。職業や生い立ち、性格を選び、自分の冒険者を作成して挑みます。
 
-**[体験版50Oをダウンロード / Download demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50O/StoneLabyrinth_Demo_50O_Windows_x64.zip)**
+**[新タイトル版・体験版50Oをダウンロード / Download SIGIL ABYSS demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50O-sigil-abyss/SigilAbyss_Demo_50O_Windows_x64.zip)**
 
-[50Oのリリース案内 / Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O)
+[50Oのリリース案内 / Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-sigil-abyss)
 
-Releaseページの **Assets → StoneLabyrinth_Demo_50O_Windows_x64.zip** を選んでください。Source code (zip) はゲーム本体ではありません。
+Releaseページの **Assets → SigilAbyss_Demo_50O_Windows_x64.zip** を選んでください。Source code (zip) はゲーム本体ではありません。
 
-## 50Oの更新（2026年10月21日）
+## 50O 改題版の更新（2026年10月21日）
+
+- タイトルを **SIGIL ABYSS（シジル・アビス）** へ変更しました。タイトル画面・ウィンドウ名・同梱文書を更新しています。
+- 版番号とセーブの保存先・形式は維持しています。公開するのは体験版だけです。
 
 - **Ctrl＋Sで索敵（1ターン）**を実行できるようになりました。**Shift＋Sの隠密態勢はそのまま**使えます。ヘルプ・技能画面の案内も更新しました。
 - 持ち物・装備・ステータスを **I：持ち物／W：装備／C：ステータス** で直接切り替えられるようになりました。Escで戻る必要はありません。
@@ -66,11 +71,11 @@ Releaseページの **Assets → StoneLabyrinth_Demo_50O_Windows_x64.zip** を�
 
 ## English
 
-Stone Labyrinth is a Windows dungeon RPG with a pseudo-3D view.
+SIGIL ABYSS (formerly Stone Labyrinth) is a Windows dungeon RPG with a pseudo-3D view.
 
 - Play the Banshee and Variad arcs in this development demo.
 - Japanese, English and Portuguese (Brazil) are supported.
-- [Download demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O), then choose **Assets → StoneLabyrinth_Demo_50O_Windows_x64.zip**.
+- [Download demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-sigil-abyss), then choose **Assets → SigilAbyss_Demo_50O_Windows_x64.zip**.
 - Extract the entire ZIP and run StoneLabyrinth_Demo.exe. Keep the media folder beside it.
 - Requires 64-bit Windows with Direct3D 11 support.
 - Press **Esc on the title screen** for language and display settings, **Enter during play** for commands, and **F1** for detailed help.
@@ -81,11 +86,11 @@ Stone Labyrinth is a Windows dungeon RPG with a pseudo-3D view.
 
 ## Português (Brasil)
 
-Stone Labyrinth é um RPG de exploração de masmorras para Windows, com visão em pseudo-3D.
+SIGIL ABYSS (anteriormente Stone Labyrinth) é um RPG de exploração de masmorras para Windows, com visão em pseudo-3D.
 
 - Esta demonstração em desenvolvimento inclui os arcos da Banshee e de Variad.
 - Idiomas: japonês, inglês e português (Brasil).
-- [Baixe a demonstração 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O) e escolha **Assets → StoneLabyrinth_Demo_50O_Windows_x64.zip**.
+- [Baixe a demonstração 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-sigil-abyss) e escolha **Assets → SigilAbyss_Demo_50O_Windows_x64.zip**.
 - Extraia todo o ZIP e execute StoneLabyrinth_Demo.exe. Mantenha a pasta media ao lado do executável.
 - É necessário Windows de 64 bits com suporte a Direct3D 11.
 - Pressione **Esc na tela de título** para configurar idioma e tamanho da janela, **Enter durante o jogo** para os comandos e **F1** para a ajuda detalhada.
