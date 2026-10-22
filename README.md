@@ -5,11 +5,15 @@
 
 疑似3Dの迷宮を探索する、Windows向けのRogue-ish RPGです。職業や生い立ち、性格を選び、自分の冒険者を作成して挑みます。
 
-**[新タイトル版・体験版50Oをダウンロード / Download SIGIL ABYSS demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50O-guild-20261022/SigilAbyss_Demo_50O_GuildUpdate_Windows_x64.zip)**
+**[新タイトル版・体験版50Oをダウンロード / Download SIGIL ABYSS demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50O-gazal-forward-20261022/SigilAbyss_Demo_50O_GazalForward_Windows_x64.zip)**
 
-[50Oのリリース案内 / Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-guild-20261022)
+[50Oのリリース案内 / Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-gazal-forward-20261022)
 
-Releaseページの **Assets → SigilAbyss_Demo_50O_GuildUpdate_Windows_x64.zip** を選んでください。Source code (zip) はゲーム本体ではありません。
+Releaseページの **Assets → SigilAbyss_Demo_50O_GazalForward_Windows_x64.zip** を選んでください。Source code (zip) はゲーム本体ではありません。
+
+## 50O 2026年10月22日更新版
+
+デモを再ビルドし、更新履歴を更新しました。収録範囲は従来の2シナリオです。ガザルの小型化・施設の前進利用はFULL版のみの変更で、体験版には含まれません。既存の体験版セーブを引き継げます。
 
 ## 50O ギルド依頼表示版（2026年10月22日）
 
@@ -86,13 +90,15 @@ Releaseページの **Assets → SigilAbyss_Demo_50O_GuildUpdate_Windows_x64.zip
 
 ## English
 
+Rebuilt demo with an updated changelog. Two scenarios only; Gazal and its forward facility entry remain exclusive to the full game. Existing demo saves remain compatible.
+
 Guild quests: ◎ in gold marks the current quest; ◯ in green marks completed and reported quests.
 
 SIGIL ABYSS (formerly Stone Labyrinth) is a Windows dungeon RPG with a pseudo-3D view.
 
 - Play the Banshee and Variad arcs in this development demo.
 - Japanese, English and Portuguese (Brazil) are supported.
-- [Download demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-guild-20261022), then choose **Assets → SigilAbyss_Demo_50O_GuildUpdate_Windows_x64.zip**.
+- [Download demo 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-gazal-forward-20261022), then choose **Assets → SigilAbyss_Demo_50O_GazalForward_Windows_x64.zip**.
 - Extract the entire ZIP and run SigilAbyss_Demo.exe. Keep the media folder beside it.
 - Requires 64-bit Windows with Direct3D 11 support.
 - Press **Esc on the title screen** for language and display settings, **Enter during play** for commands, and **F1** for detailed help.
@@ -103,13 +109,15 @@ SIGIL ABYSS (formerly Stone Labyrinth) is a Windows dungeon RPG with a pseudo-3D
 
 ## Português (Brasil)
 
+Demonstração recompilada com histórico atualizado. Somente dois cenários; Gazal e o acesso às instalações ao avançar são exclusivos da versão completa. Os arquivos salvos continuam compatíveis.
+
 Missões da guilda: ◎ dourado indica a missão atual; ◯ verde indica missões concluídas e relatadas.
 
 SIGIL ABYSS (anteriormente Stone Labyrinth) é um RPG de exploração de masmorras para Windows, com visão em pseudo-3D.
 
 - Esta demonstração em desenvolvimento inclui os arcos da Banshee e de Variad.
 - Idiomas: japonês, inglês e português (Brasil).
-- [Baixe a demonstração 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-guild-20261022) e escolha **Assets → SigilAbyss_Demo_50O_GuildUpdate_Windows_x64.zip**.
+- [Baixe a demonstração 50O](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50O-gazal-forward-20261022) e escolha **Assets → SigilAbyss_Demo_50O_GazalForward_Windows_x64.zip**.
 - Extraia todo o ZIP e execute SigilAbyss_Demo.exe. Mantenha a pasta media ao lado do executável.
 - É necessário Windows de 64 bits com suporte a Direct3D 11.
 - Pressione **Esc na tela de título** para configurar idioma e tamanho da janela, **Enter durante o jogo** para os comandos e **F1** para a ajuda detalhada.
