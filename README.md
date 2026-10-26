@@ -1,11 +1,11 @@
 # SIGIL ABYSS（シジル・アビス）
 旧タイトル：石の迷宮 / Formerly Stone Labyrinth
 
-## 体験版50Q（2026年10月25日）
-[体験版ZIPをダウンロード](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50Q-battle-20261025/SigilAbyss_Demo_50Q_Windows_x64.zip) / [リリース詳細](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50Q-battle-20261025)
+## 体験版50Q（2026年10月27日）
+[体験版ZIPをダウンロード](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50Q-encounter-20261027/SigilAbyss_Demo_50Q_EncounterUpdate_Windows_x64.zip) / [リリース詳細](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50Q-encounter-20261027)
 
 ZIPをすべて展開し、`SigilAbyss_Demo.exe`を起動してください。Windows x64 / Direct3D 11 / キーボード操作。
-バンシー編・ヴァリアド編の2シナリオを収録。今回は大技の【予兆】、移動による回避、耐性による軽減と毒防止、硬い守りの表示を改善しました。攻撃力・耐性計算・保存形式93は維持。
+バンシー編・ヴァリアド編の2シナリオを収録。今回は序盤から敵がこちらに気づいた際の短い反応を追加。群れはまとめて表示し、表示済み状態を保存します。追加のキー待ちはありません。大技の【予兆】、移動による回避、耐性による軽減と毒防止、硬い守りの表示を改善しました。攻撃力・耐性計算・保存形式93は維持。
 FULL版の深層迷宮・救済者・地下植物・ケルベロスなどは含まれません。FULL版は[itch.io](https://niwa-1999.itch.io/sigil-abyss)で配布中です。GitHubでは体験版のみ公開します。
 
 I持ち物／W装備／C能力を直接切り替え。Ctrl＋Sで索敵、Shift＋Sで隠密。F1ヘルプ、F2設定。
@@ -14,11 +14,11 @@ I持ち物／W装備／C能力を直接切り替え。Ctrl＋Sで索敵、Shift�
 制作方針と謝辞・更新履歴・ライセンスを同梱。旧版リリースは履歴として保持しています。
 
 ## English
-[Download Demo 50Q](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50Q-battle-20261025/SigilAbyss_Demo_50Q_Windows_x64.zip) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50Q-battle-20261025)
-Extract all files and run `SigilAbyss_Demo.exe`. Two scenarios: Banshee and Variad. Clearer attack warnings, movement evasion, resistance mitigation, poison prevention and hard-defense feedback. Damage rules and save format remain unchanged. Deep full-game content is not included. Existing demo saves remain supported; new enemies appear on newly generated floors. Some new names and messages are not yet translated. The full game is not published here.
+[Download Demo 50Q](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50Q-encounter-20261027/SigilAbyss_Demo_50Q_EncounterUpdate_Windows_x64.zip) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50Q-encounter-20261027)
+Extract all files and run `SigilAbyss_Demo.exe`. Two scenarios: Banshee and Variad. Brief encounter reactions from early enemies onward. Groups share a notice and shown reactions persist in saves. No additional key presses. Clearer attack warnings, movement evasion and resistance feedback are retained. Damage rules and save format remain unchanged. Deep full-game content is not included. Existing demo saves remain supported; new enemies appear on newly generated floors. Some new names and messages are not yet translated. The full game is not published here.
 
 ## Português (Brasil)
-[Baixar demonstração 50Q](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50Q-battle-20261025/SigilAbyss_Demo_50Q_Windows_x64.zip) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50Q-battle-20261025)
-Extraia todos os arquivos e execute `SigilAbyss_Demo.exe`. Dois cenários: Banshee e Variad. Avisos mais claros, esquiva por movimento, redução por resistência, prevenção de veneno e mensagens de defesa rígida. As regras de dano e o formato de dados salvos permanecem iguais. O conteúdo profundo da versão completa não está incluído. Os dados salvos continuam compatíveis; novos inimigos aparecem em andares recém-gerados. Alguns novos nomes e textos ainda não foram traduzidos. A versão completa não é publicada aqui.
+[Baixar demonstração 50Q](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-50Q-encounter-20261027/SigilAbyss_Demo_50Q_EncounterUpdate_Windows_x64.zip) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-50Q-encounter-20261027)
+Extraia todos os arquivos e execute `SigilAbyss_Demo.exe`. Dois cenários: Banshee e Variad. Reações de encontro desde os primeiros inimigos. Grupos compartilham um aviso e o estado é salvo, sem teclas extras. Mantém os avisos de combate, a esquiva e as mensagens de resistência. As regras de dano e o formato de dados salvos permanecem iguais. O conteúdo profundo da versão completa não está incluído. Os dados salvos continuam compatíveis; novos inimigos aparecem em andares recém-gerados. Alguns novos nomes e textos ainda não foram traduzidos. A versão completa não é publicada aqui.
 
 Source code (zip / tar.gz) is not the playable game.
