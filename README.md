@@ -1,41 +1,38 @@
 # SIGIL ABYSS（シジル・アビス）
 旧タイトル：石の迷宮 / Formerly Stone Labyrinth
 
-## 体験版51D（2026年10月30日）
-[体験版ZIPをダウンロード](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51D-targets-20261030/SigilAbyss_Demo_51D_Windows_x64.zip) / [更新内容](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51D-targets-20261030)
+## 体験版51L（2026年10月30日）
+[体験版ZIPをダウンロード](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51L-exploration-20261030/SigilAbyss_Demo_51L_Windows_x64.zip) / [更新内容](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51L-exploration-20261030)
 
 3DダンジョンRPG『SIGIL ABYSS』。
 明かりを携えて迷宮へ潜り、敵と戦い、戦利品を持ち帰る冒険をお楽しみください。
 
-すべて展開して `SigilAbyss_Demo.exe` を起動してください。Windows x64 / Direct3D 11 / キーボード操作。
-体験版はバンシー編・ヴァリアド編の2シナリオを収録しています。
+すべて展開して `SigilAbyss_Demo.exe` を起動してください。Windows 64bit / Direct3D 11 / キーボード操作。
+体験版はバンシー編・ヴァリアド編の2シナリオ。FULL版の後半シナリオや深層の敵は含みません。
 
-### 51Dの更新
-- 敵の番号を画像・対象・準備一覧で統一。選択対象は水色の四隅で表示。
-- 攻撃が届かない理由と対象の自動変更を案内し、宿屋に助言を追加。
-- 槍のCtrl＋方向、Shift／Shift＋Ctrl、Ctrl＋S索敵とShift＋S隠密をヘルプで説明。
+### 今回の改善（51E～51L）
+- 細い迷路・隣接小部屋・柱や間仕切り壁・近道・寄り道・階ごとの構成を追加。新規生成階から反映。
+- 宝箱の矢を束に。全薬瓶/巻き物の未鑑定表示と同条件の道具の束を整理。
+- 古代の霊薬を飲むたびに6効果から等確率で1つ発動。鑑定後もランダムです。
 
-### 継続収録：51B・51C
-- 敵名と準備内容を実行・中断まで別枠で表示。HUDは4体まで、Lで全員の準備と履歴を確認。
-- 登場メッセージを約6秒間表示。メニュー中は表示時間を停止。
-- 命中失敗・属性無効・装甲吸収を区別し、耐性/防御の説明を保持。重要結果は最大3件の要約にも表示。
+51Dの対象番号・水色枠・攻撃が届かない理由、戦闘メッセージ、準備表示と登場通知、操作ヘルプも継続。
+I持ち物／W・E装備／C能力／L履歴・準備／Ctrl＋方向：槍／Ctrl＋S索敵／Shift＋S隠密／F1ヘルプ／F2設定。
 
-51Aの敵の個性・群れ・配置・両ボスの行動を継続収録。経験値60%、初回訓練案内、依頼の目的・報告待ち・次依頼案内、装備比較・保護/売却候補・一括売却、帰還記録も収録しています。
-I持ち物／W装備／C能力、L履歴・準備一覧、Ctrl＋S索敵、Shift＋S隠密、F1ヘルプ、F2設定。
+**保存形式95。旧体験版のセーブは読めますが、51Lで保存したデータは旧版では読めません。更新前のセーブと関連ファイルを保管してください。**
+保存先は `%LOCALAPPDATA%\StoneDungeonDemo` を維持。体験版からFULL版への移行は非対応。
+日本語・英語・ポルトガル語（ブラジル）対応。一部の固有名や長文には未翻訳部分があります。
+音楽クレジット・制作方針と謝辞・更新履歴・既存ライセンスを同梱。
 
-保存形式94。旧体験版のセーブを読み込めます。形式94のデータは50R以降に対応し、50Q以前では読めません。更新前のセーブを保管してください。
-保存先は `%LOCALAPPDATA%\StoneDungeonDemo` のまま。FULL版へのセーブ移行は非対応です。
-
-日本語・英語・ポルトガル語（ブラジル）対応。一部の固有名・長文台詞は未翻訳です。
-音楽クレジット・制作方針と謝辞・更新履歴・既存ライセンスを同梱しています。
 [全シナリオを収録したFULL版の配布先（itch.io）](https://niwa-1999.itch.io/sigil-abyss)。GitHubではデモ版のみ公開しています。
 
 ## English
-[Download Demo 51D](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51D-targets-20261030/SigilAbyss_Demo_51D_Windows_x64.zip) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51D-targets-20261030)
-Extract everything and run `SigilAbyss_Demo.exe`. Named enemy preparations persist until execution or interruption; L lists all preparations and history. Encounter notices pause in menus. Includes clearer hit/miss, immunity and mitigation feedback. Two scenarios: Banshee and Variad. Save format 94 reads older demo saves; format 94 requires 50R or later. Back up before updating. No demo-to-full transfer. Only the demo is published here.
+[Download Demo 51L](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51L-exploration-20261030/SigilAbyss_Demo_51L_Windows_x64.zip) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51L-exploration-20261030)
+Extract everything and run `SigilAbyss_Demo.exe`. New floor variety, cover, detours, shortcuts, bundled chest arrows, mystery consumables, consolidated stacks and six random ancient-elixir effects. Existing floors remain unchanged.
+Two scenarios: Banshee and Variad. Save format 95 reads older demo saves; saves written by 51L cannot be read by older versions. Back up before updating. No demo-to-full transfer. Only the demo is published here.
 
 ## Português (Brasil)
-[Baixar demonstração 51D](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51D-targets-20261030/SigilAbyss_Demo_51D_Windows_x64.zip) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51D-targets-20261030)
-Extraia tudo e execute `SigilAbyss_Demo.exe`. As preparações identificadas permanecem até executar ou interromper; L lista todas e o histórico. Avisos de encontro pausam nos menus. Inclui resultados claros de acerto/erro, imunidade e redução de dano. Dois cenários: Banshee e Variad. Formato 94 lê dados antigos; dados no formato 94 exigem 50R ou posterior. Guarde uma cópia. Sem transferência para a versão completa. Somente a demonstração é publicada aqui.
+[Baixar demonstração 51L](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51L-exploration-20261030/SigilAbyss_Demo_51L_Windows_x64.zip) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51L-exploration-20261030)
+Extraia tudo e execute `SigilAbyss_Demo.exe`. Arquiteturas variadas, cobertura, desvios, atalhos, flechas em lotes, consumíveis desconhecidos, pilhas unidas e seis efeitos aleatórios do elixir antigo. Andares já gerados permanecem iguais.
+Dois cenários: Banshee e Variad. O formato 95 lê dados antigos; dados salvos pela 51L não podem ser lidos por versões anteriores. Guarde cópias. Sem transferência para a versão completa. Somente a demonstração é publicada aqui.
 
 Source code (zip / tar.gz) is not the playable game.
