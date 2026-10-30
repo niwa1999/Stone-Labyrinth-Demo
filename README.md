@@ -1,8 +1,8 @@
 # SIGIL ABYSS（シジル・アビス）
 旧タイトル：石の迷宮 / Formerly Stone Labyrinth
 
-## 体験版51Q（2026年10月30日）
-[体験版ZIPをダウンロード](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51Q-ruins-20261030/SigilAbyss_Demo_51Q_Windows_x64.zip) / [更新内容](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51Q-ruins-20261030)
+## 体験版51R（2026年10月30日）
+[体験版ZIPをダウンロード](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51R-ruins-20261030/SigilAbyss_Demo_51R_Windows_x64.zip) / [更新内容](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51R-ruins-20261030)
 
 3DダンジョンRPG『SIGIL ABYSS』。
 明かりを携えて迷宮へ潜り、敵と戦い、戦利品を持ち帰る冒険をお楽しみください。
@@ -11,10 +11,10 @@
 すべて展開して `SigilAbyss_Demo.exe` を起動してください。
 Windows 64bit／Direct3D 11／キーボード操作。
 
-### 51Qの更新
+### 51Rの更新
 - 遺跡の受注から攻略・★光の石・報告まで体験版へ追加。
 - 射撃後の後退・連続攻撃・槍と群れ・盾の押し返し・守護ゴーレムの回り込みなど、敵の戦い方を改善。
-- 遺跡に新たな敵と宝箱のミミックを追加。宿屋に★光の石の噂を追加。
+- 遺跡に新たな敵と宝箱のミミックを追加。宿屋に★光の石の場所・燃料不要の効果・広い照明と地図範囲・使い方の噂を追加。
 - 敵の技の頻度・速度差・編成、消耗品の供給と装備性能差を調整。
 
 シナリオ4以降・深層B11～100は体験版に含みません。既存の生成済み階は維持し、新規生成から配置へ反映します。
@@ -27,14 +27,14 @@ I持ち物／W・E装備／C能力／L履歴・準備／Ctrl＋方向：槍／Ct
 ▼全シナリオを収録したFULL版（有料・itch.io）
 https://niwa-1999.itch.io/sigil-abyss
 
-GitHubには体験版だけを公開しています。今回FULL版51QはローカルZIPのみ作成し、アップロードしていません。
+GitHubには体験版だけを公開しています。今回FULL版51RはローカルZIPのみ作成し、アップロードしていません。
 
 ## English
-[Download Demo 51Q](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51Q-ruins-20261030/SigilAbyss_Demo_51Q_Windows_x64.zip) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51Q-ruins-20261030)
+[Download Demo 51R](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51R-ruins-20261030/SigilAbyss_Demo_51R_Windows_x64.zip) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51R-ruins-20261030)
 Three scenarios: Banshee, Variad and the Ancient Ruins (four floors). Improved enemy tactics, groups and supplies; some new ruin chests hide a mimic. Extract everything and run `SigilAbyss_Demo.exe`. Save format 96 supports older demo saves but cannot be read by older game versions. Back up saves and related files before updating. No demo-to-full transfer. Only the demo is uploaded here.
 
 ## Português (Brasil)
-[Baixar demonstração 51Q](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51Q-ruins-20261030/SigilAbyss_Demo_51Q_Windows_x64.zip) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51Q-ruins-20261030)
+[Baixar demonstração 51R](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/download/demo-51R-ruins-20261030/SigilAbyss_Demo_51R_Windows_x64.zip) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51R-ruins-20261030)
 Três cenários: Banshee, Variad e as Ruínas Antigas (quatro andares). Táticas, grupos e suprimentos melhorados; alguns baús novos escondem um mímico. Extraia tudo e execute `SigilAbyss_Demo.exe`. O formato 96 aceita dados antigos, mas não pode ser lido por versões anteriores. Guarde cópias dos dados e arquivos relacionados. Sem transferência para a versão completa. Somente a demonstração é publicada aqui.
 
 Source code (zip / tar.gz) is not the playable game.
