@@ -1,49 +1,29 @@
 # SIGIL ABYSS（シジル・アビス）
 旧タイトル：石の迷宮 / Formerly Stone Labyrinth
 
-## 体験版51T（2026年10月31日）
-[体験版のダウンロードページ](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51T-pedestal-20261031) / [更新内容](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51T-pedestal-20261031)
+## 体験版52M（2026年10月31日）
+[体験版のダウンロードページ](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-52M-visual-20261031)
 
-3DダンジョンRPG『SIGIL ABYSS』。
-明かりを携えて迷宮へ潜り、敵と戦い、戦利品を持ち帰る冒険をお楽しみください。
+3DダンジョンRPG『SIGIL ABYSS』。明かりを携えて迷宮へ潜り、敵と戦い、戦利品を持ち帰る冒険をお楽しみください。
 
-**体験版はバンシー編・ヴァリアド編・遺跡篇の3シナリオ。遺跡は地下4階まで遊べます。**
-すべて展開して `SigilAbyss_Demo.exe` を起動してください。
-Windows 64bit／Direct3D 11／キーボード操作。
+**バンシー編・ヴァリアド編・遺跡篇の3シナリオ（遺跡は地下4階まで）を収録。**
+52Mでは照明・滑らかな移動・敵の厚みと振り向き・メニュー・地上の施設選択・店内の賑わいを改善しました。Kでメッセージ欄を別窓にできます。詳しい変更はリリースページと同梱の更新履歴をご覧ください。シナリオ4以降と深層は製品版に収録しています。
 
-### 51Tの更新
-- 守護ゴーレム撃破後の光を台座へ集め、報酬の存在と回収を案内。台座上でE/Gキーで拾えます。
+ZIPをすべて展開して`SigilAbyss_Demo.exe`を起動。Windows 64bit／Direct3D 11／キーボード操作。日本語・英語・ポルトガル語（ブラジル）対応。一部未翻訳があります。
+地上：矢印／テンキーで選択、Enter／Eで利用。I持ち物／W装備／C能力／J番号コマンド／Kメッセージ別窓／L履歴／Ctrl＋S索敵／Shift＋S隠密／F1ヘルプ。
+保存先 `%LOCALAPPDATA%\StoneDungeonDemo`。旧体験版セーブを読み込めます。保存形式100の新しいデータは旧版では読めないため、更新前にセーブと関連ファイルを保管してください。体験版から製品版への移行は非対応です。
 
-### 51Sの表示改善も継続
-- 通常画面を整理。レベル/HP/MP・SP/満腹度/灯り、敵の名前/番号/HPと短い状態・準備表示へ。
-- Jキーで番号コマンドを確認・設定。精霊は小さく左側へ縦並び。
-
-### 継続収録
-- 遺跡の受注から攻略・★光の石・報告まで体験版へ追加。
-- 射撃後の後退・連続攻撃・槍と群れ・盾の押し返し・守護ゴーレムの回り込みなど、敵の戦い方を改善。
-- 遺跡に新たな敵と宝箱のミミックを追加。宿屋に★光の石の場所・燃料不要の効果・広い照明と地図範囲・使い方の噂を追加。
-- 敵の技の頻度・速度差・編成、消耗品の供給と装備性能差を調整。
-
-シナリオ4以降・深層B11～100は体験版に含みません。既存の生成済み階は維持し、新規生成から配置へ反映します。
-I持ち物／W・E装備／C能力／L履歴・準備／Ctrl＋方向：槍／Ctrl＋S索敵／Shift＋S隠密／F1ヘルプ／F2設定。
-
-保存先 `%LOCALAPPDATA%\StoneDungeonDemo` と旧体験版のセーブ互換を維持。**保存形式96のデータは旧版では読めません。更新前のセーブと関連ファイルを保管してください。** FULL版へのセーブ移行は非対応。
-日本語・英語・ポルトガル語（ブラジル）対応。一部の固有名・長文は未翻訳です。
-音楽クレジット・制作方針と謝辞・更新履歴・既存ライセンスを同梱。
-
-▼全シナリオを収録したFULL版（有料・itch.io）
+▼全シナリオ収録の製品版（有料・itch.io）
 https://niwa-1999.itch.io/sigil-abyss
 
-GitHubには体験版だけを公開しています。今回FULL版51TはローカルZIPのみ作成し、アップロードしていません。
+GitHubは体験版のみ公開。今回の製品版52MはローカルZIP作成のみで、アップロードしていません。
 
 ## English
-51T adds a gathering-light scene and pedestal reward guidance after the ruin guardians fall. It retains the simplified HUD, moves quick-command review to J and stacks smaller spirit cards on the left.
-[Download Demo 51T](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51T-pedestal-20261031) / [Release notes](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51T-pedestal-20261031)
-Three scenarios: Banshee, Variad and the Ancient Ruins (four floors). Improved enemy tactics, groups and supplies; some new ruin chests hide a mimic. Extract everything and run `SigilAbyss_Demo.exe`. Save format 96 supports older demo saves but cannot be read by older game versions. Back up saves and related files before updating. No demo-to-full transfer. Only the demo is uploaded here.
+[Demo 52M — download page](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-52M-visual-20261031)
+A 3D dungeon RPG. Explore with your light, fight enemies and bring home loot. Three scenarios including the Ancient Ruins (four floors). Atmospheric lighting, smooth dungeon movement, thick enemy cutouts and illustrated menus/town with populated interiors. Extract and run `SigilAbyss_Demo.exe`. Windows 64-bit / Direct3D 11 / keyboard. Japanese, English and Brazilian Portuguese (some text untranslated). Save format 100 supports old demo saves; back up before updating. No demo-to-full transfer. Full version: [itch.io](https://niwa-1999.itch.io/sigil-abyss).
 
 ## Português (Brasil)
-51T adiciona luz no pedestal e orientação para recolher a recompensa dos guardiões. Mantém a interface simplificada, usa J para consultar comandos e mostra espíritos menores em uma coluna à esquerda.
-[Baixar demonstração 51T](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51T-pedestal-20261031) / [Notas da versão](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-51T-pedestal-20261031)
-Três cenários: Banshee, Variad e as Ruínas Antigas (quatro andares). Táticas, grupos e suprimentos melhorados; alguns baús novos escondem um mímico. Extraia tudo e execute `SigilAbyss_Demo.exe`. O formato 96 aceita dados antigos, mas não pode ser lido por versões anteriores. Guarde cópias dos dados e arquivos relacionados. Sem transferência para a versão completa. Somente a demonstração é publicada aqui.
+[Demonstração 52M — página de download](https://github.com/niwa1999/Stone-Labyrinth-Demo/releases/tag/demo-52M-visual-20261031)
+RPG de exploração de masmorras 3D. Explore com sua luz, enfrente inimigos e volte com os tesouros. Três cenários, incluindo as Ruínas Antigas (quatro andares). Iluminação atmosférica, movimento suave, inimigos com espessura e menus/cidade ilustrados com interiores povoados. Extraia e execute `SigilAbyss_Demo.exe`. Windows 64 bits / Direct3D 11 / teclado. Japonês, inglês e português brasileiro (alguns textos não traduzidos). Formato 100 aceita dados antigos da demonstração; faça backup antes. Sem transferência para a versão completa. Versão completa: [itch.io](https://niwa-1999.itch.io/sigil-abyss).
 
 Source code (zip / tar.gz) is not the playable game.
